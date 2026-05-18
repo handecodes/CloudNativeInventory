@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CloudNativeInventory.Api/CloudNativeInventory.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CloudNativeInventory.Tests/CloudNativeInventory.Tests.csproj" />
+  </Folder>
+</Solution>
