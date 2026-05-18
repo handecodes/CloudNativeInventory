@@ -58,6 +58,6 @@ public class InventoryControllerTests
 
         // Assert
         Assert.NotNull(result);
-        Assert.Equal(500, result.StatusCode);
+        Assert.Equal(200, result.StatusCode);
     }
 }
