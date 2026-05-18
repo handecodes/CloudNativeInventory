@@ -1,5 +1,7 @@
 <Solution>
-  <Folder Name="/Solution Items/" />
+  <Folder Name="/Solution Items/">
+    <File Path="ADR.md" />
+  </Folder>
   <Folder Name="/src/">
     <Project Path="src/CloudNativeInventory.Api/CloudNativeInventory.Api.csproj" />
   </Folder>
