@@ -17,6 +17,7 @@ builder.Services.AddOpenApi(); // .NET 9 OpenAPI
 // }
 
 // Vi använder InMemory-databas lokalt
+
 builder.Services.AddDbContext<InventoryDbContext>(options =>
     options.UseInMemoryDatabase("InventoryDb"));
 
